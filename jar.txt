@@ -1,0 +1,1 @@
+jar cvf ctcalc.jar Token.class Lexer.class Node.class Parser.class Values.class Interpreter.class
